@@ -1,0 +1,21 @@
+Open Container Platform (OCP) is an open-source container application platform based on Kubernetes. Here are some common OCP commands:
+
+oc login: Connect to a cluster using a username and password or a token.
+
+oc get: Retrieve one or more resources from a cluster.
+
+oc describe: Get detailed information about a resource.
+
+oc logs: Retrieve logs from a pod.
+
+oc create: Create one or more resources.
+
+oc apply: Update or create resources in a file or from stdin.
+
+oc delete: Delete one or more resources.
+
+oc label: Add, modify, or delete labels on one or more resources.
+
+oc exec: Execute a command in a container.
+
+oc rsh: Start a shell session in a container.
